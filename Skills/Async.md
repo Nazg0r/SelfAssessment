@@ -1,12 +1,12 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
+  - Event loop 🎓 known
+  - try..catch 
   - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
+  - Async I/O 👂 heard
+  - Thread pool 👂 heard
+  - Pattern Reactor 👂 heard
   - CAS operations
   - epoll
   - kqueue
@@ -17,69 +17,69 @@
   - Dead locks
   - Live locks
   - Concurrent programming
-  - Parallel programming
+  - Parallel programming 👂 heard
   - Actor Model
-  - Thread
-  - Process
+  - Thread 🎓 known
+  - Process 🎓 known
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
-  - Future
+  - Callbacks 🖐️ used
+  - Callback-last-error-first 🖐️ used
+  - Thenable 🖐️ used
+  - Promise 🖐️ used
+  - Async/await 🖐️ used
+  - Future 🖐️ used
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
+  - Sync generator 👂 heard
+  - Async Generator 👂 heard
+  - Async Iterator 👂 heard
+  - Event 🖐️ used
   - Coroutine
   - Goroutine
-  - Signal
-  - Stream
-  - Chain of responsibility
-  - Middleware
-  - Locks
+  - Signal 👂 heard
+  - Stream 👂 heard
+  - Chain of responsibility 👂 heard
+  - Middleware 👂 heard
+  - Locks 
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - callbacks compose
-  - async compose
+  - callbackify 🎓 known
+  - promisify 🎓 known
+  - asyncify 🎓 known
+  - callbacks compose 👂 heard
+  - async compose 👂 heard
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter 🖐️ used
   - Observable/Observer
-  - Readable
-  - Writable
-  - Transform
-  - Async Pool
-  - Async Queue
-  - Async Collector
+  - Readable 🎓 known
+  - Writable 🎓 known
+  - Transform 👂 heard
+  - Async Pool 👂 heard
+  - Async Queue 👂 heard
+  - Async Collector 👂 heard
   - Semaphore
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
-  - nextTick
-  - AbortController
-  - AbortSignal
+  - Timers🎓 known
+  - setImmediate 🎓 known
+  - nextTick 🎓 known
+  - AbortController  👂 heard
+  - AbortSignal 👂 heard
   - Promise unhandled rejection
   - Promise double resolve
-  - child_process
-  - worker_threads
+  - child_process 👂 heard
+  - worker_threads 👂 heard
   - Atomics
-  - High resolution clock
-  - Callback hell
-  - Promise hell
+  - High resolution clock 🎓 known
+  - Callback hell 🎓 known
+  - Promise hell 🎓 known
   - ref() and unref()
-  - Error handling in async code
+  - Error handling in async code 🖐️ used
   - Better stack traces with return await
-  - JSON: streaming serialization
-  - promisify
-  - callbackify
-  - AsyncLocalStorage
-  - AsyncResource
+  - JSON: streaming serialization 👂 heard
+  - promisify 👂 heard
+  - callbackify 👂 heard
+  - AsyncLocalStorage 👂 heard
+  - AsyncResource 👂 heard
 - Techniques
   - async.js library
   - RxJS library
