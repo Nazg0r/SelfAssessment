@@ -1,106 +1,106 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - value 🙋 explained
+  - identifier 🙋 explained
+  - variable 🙋 explained 
+  - constant 🙋 explained
+  - scalar 🙋 explained
+  - literal 🙋 explained
+  - expression 🙋 explained
+  - heap 🙋 explained
+  - function 🙋 explained
+  - procedure 🙋 explained
+  - method 🙋 explained
+  - class 🙋 explained
+  - prototype 🙋 explained
+  - event 🙋 explained
+  - type 🙋 explained
+  - primitive types 🙋 explained
+  - reference types 🙋 explained
+  - flag 🙋 explained
+  - lexical scope 🙋 explained
+  - code block 🙋 explained
+  - conditions 🙋 explained
+  - loops 🙋 explained
+  - assignment 🖐️ used
+  - regular expression 👂 heard
+  - interface 👂 heard
+  - contract 👂 heard
+  - module 🖐️ used
+  - call stack 🎓 known
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
-  - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
-  - functor
-  - monad
-  - monoid
-  - generator
-  - coroutine
+  - signature 🙋 explained
+  - argument 🙋 explained
+  - parameter 🙋 explained
+  - pure function 🙋 explained
+  - lambda expression🙋 explained
+  - side effects 🎓 known
+  - closure🎓 known
+  - partial application 🖐️ used
+  - curry 🎓 known
+  - higher order 🖐️ used
+  - recursion 🖐️ used
+  - callback 🖐️ used
+  - listener 🖐️ used
+  - compose 👂 heard
+  - pipe 👂 heard
+  - memoize 👂 heard
+  - wrapper 🖐️ used
+  - functor 🎓 known
+  - monad 👂 heard
+  - monoid 👂 heard
+  - generator 🎓 known
+  - coroutine 👂 heard
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - array 🙋 explained
+  - structure 🙋 explained
+  - record 👂 heard
+  - enum 👂 heard
+  - instance 🙋 explained
+  - object 🙋 explained
+  - class 🙋 explained
+  - collection 🚀 constructed
+  - set 🎓 known
+  - hash table 🎓 known
+  - linked list 🚀 constructed
+  - doubly list 🚀 constructed
+  - unrolled list 🖐️ used
+  - circular list 🖐️ used
+  - queue 🚀 constructed
+  - stack 🚀 constructed
+  - deque 🖐️ used
+  - tree 🔬 researched
+  - graph 🔬 researched
+  - iterator 🎓 known
+  - mutable state 🎓 known
+  - immutable state 🎓 known
+  - serialization 🖐️ used
+  - string parsing 🖐️ used
 - Process & style
-  - compiler
-  - transpiler
-  - linter
-  - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
-  - unittest
-  - git
-  - github
+  - compiler 🎓 known
+  - transpiler 🎓 known
+  - linter 🖐️ used
+  - polyfill 🖐️ used
+  - debugger 🖐️ used
+  - garbage collection 🖐️ used
+  - refactoring 🙋 explained
+  - code review 🖐️ used
+  - antipatterns 🖐️ used
+  - paradigm 🖐️ used
+  - algorithm 🖐️ used
+  - magic numbers 🖐️ used
+  - hardcode 🙋 explained
+  - complexity 🙋 explained
+  - decomposition 🎓 known
+  - spaghetti 👂 heard
+  - silver bullet 👂 heard
+  - not invented here 🎓 known
+  - dead code 🙋 explained
+  - unreachable code 🙋 explained
+  - duplicate code 🙋 explained
+  - exception 🙋 explained
+  - return early 🙋 explained
+  - unittest 🖐️ used
+  - git 🖐️ used
+  - github 🖐️ used
