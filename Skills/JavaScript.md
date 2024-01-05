@@ -36,9 +36,9 @@
   - template literal 🎓 known
   - strict mode 🙋 explained
   - delete 🙋 explained
-  - in 🖐️ used
-  - super 🖐️ used
-  - Symbol 🎓 known
+  - in 🙋 explained
+  - super 🙋 explained
+  - Symbol 🙋 explained
   - Reflect 🎓 known
 - Statements
   - if 🙋 explained
@@ -48,7 +48,7 @@
   - for..in 🙋 explained
   - for..of 🙋 explained
   - for await 🙋 explained
-  - throw 🖐️ used
+  - throw 🙋 explained
   - break 🙋 explained
   - continue 🙋 explained
   - import 🙋 explained
@@ -57,7 +57,7 @@
   - try..catch 🙋 explained
   - switch 🎓 known
   - class🙋 explained
-  - new Error 🖐️ used
+  - new Error 🙋 explained
   - with 🖐️ used
 - Functions
   - function declaration 🙋 explained
@@ -68,10 +68,10 @@
 - Data structures 
   - Array 🙋 explained
   - mixin 🙋 explained
-  - extend 🖐️ used
-  - typed arrays 🖐️ used
-  - Map 🖐️ used
-  - Set 🖐️ used
+  - extend 🙋 explained
+  - typed arrays 🙋 explained
+  - Map 🙋 explained
+  - Set 🙋 explained
   - undefined 🙋 explained
   - null 🙋 explained
   - Proxy 🎓 known
