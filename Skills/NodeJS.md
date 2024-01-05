@@ -8,15 +8,15 @@
   - Event loop: microtasks and macrotasks 🎓 known
   - Garbage collection 🎓 known 
   - Node.js LTS schedule 
-  - I/O-bound, CPU-bound, memory-bound tasks 👂 heard
+  - I/O-bound, CPU-bound, memory-bound tasks 🖐️ used
   - Interactive applications (close to real-time )
 - Modularity, layers and dependencies
   - CommonJS modules 🖐️ used
   - ECMAScript modules 🖐️ used
   - node:module 🖐️ used
-  - Caching in CJS and ESM 👂 heard
-  - Modules as singletons 👂 heard
-  - Contexts and scripts node:vm 👂 heard
+  - Caching in CJS and ESM 🖐️ used
+  - Modules as singletons 🖐️ used
+  - Contexts and scripts node:vm 🖐️ used
   - Dependencies: npm, node_modules 🖐️ used
   - Dependencies: package.json and package lock 🖐️ used
   - Module-based permissions model 👂 heard
@@ -61,25 +61,25 @@
   - Blob, File, Buffer, node:buffer
   - Module node:zlib
 - Application structure and architecture
-  - Isolation between layer
-  - Multilayer approach
-  - Separation of concerns
-  - Inversion of control
+  - Isolation between layer 🎓 known
+  - Multilayer approach 🎓 known 
+  - Separation of concerns 🎓 known
+  - Inversion of control 🎓 known
   - Dependency injection 👂 heard
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - Distributed systems
-  - Highload applications
-  - Clean architecture
-  - DDD
-  - Message Queue
-  - CQS
-  - CQRS
-  - Event sourcing
+  - GRASP 🎓 known
+  - SOLID 🎓 known
+  - GoF patterns 🎓 known
+  - Distributed systems 👂 heard
+  - Highload applications🎓 known
+  - Clean architecture 🎓 known
+  - DDD 👂 heard
+  - Message Queue 👂 heard
+  - CQS 👂 heard
+  - CQRS 🎓 known
+  - Event sourcing 
   - Load balancing
   - Serverless clouds
-  - FaaS clouds
+  - FaaS clouds 👂 heard
   - Fat controller
   - GoF for Node.js
   - Leaking abstractions
@@ -90,22 +90,22 @@
   - TCP/SSL 🎓 known
   - UDP 🎓 known
   - TLS 🎓 known
-  - Websocket 👂 heard
+  - Websocket 🖐️ used
   - SSE 👂 heard
   - HTTP/3 (QUIC) 👂 heard
   - Long polling 👂 heard
-  - REST 👂 heard
+  - REST 📢 talked
   - RPC 🎓 known
   - Routing 🎓 known
-  - DoS 👂 heard
-  - DDoS 👂 heard
+  - DoS 🎓 known
+  - DDoS 🎓 known
   - XSS
-  - Path traversal
-  - CSRF
+  - Path traversal 🎓 known
+  - CSRF👂 heard
   - DNS 🎓 known
-  - Fetch API 👂 heard
+  - Fetch API 🎓 known
   - IncomingMessage
-  - SQL injection 👂 heard
+  - SQL injection 🖐️ used
   - noDelay 👂 heard
   - keep-alive
   - ALPN
@@ -117,11 +117,11 @@
   - Logging 🖐️ used
   - Application configuring 🖐️ used
   - Testing 🎓 known
-  - CI/CD 👂 heard
-  - Readable 🎓 known
-  - Writable 🎓 known
-  - Transform 🎓 known
-  - back pressure 👂 heard
+  - CI/CD 🎓 known
+  - Readable 🖐️ used
+  - Writable 🖐️ used
+  - Transform 🖐️ used
+  - back pressure 🎓 known
   - Buffer 🖐️ used
   - Console 🖐️ used
   - Inspector 🎓 known
@@ -130,11 +130,11 @@
   - Availability 🎓 known
   - Flexibility 🎓 known
 - Data access
-  - Data access layer 👂 heard
-  - Repository 👂 heard
-  - Active record
-  - Query builder
-  - Object-Relational Mapping
+  - Data access layer 🎓 known
+  - Repository 🎓 known
+  - Active record 🎓 known
+  - Query builder 👂 heard
+  - Object-Relational Mapping 🎓 known
 - Error handling and debugging
   - Error 🖐️ used
   - error.cause 🖐️ used
@@ -151,7 +151,7 @@
   - Resource leaks 🎓 known
   - Data race 🎓 known 
 - Integrations and bindings
-  - Native addons
+  - Native addons 🖐️ used
   - C and C++ addons
   - Rust addons
   - Zig addons
@@ -167,4 +167,4 @@
   - Webassembly AssemblyScript
   - Shared memory
   - SharedArrayBuffer
-  - V8 binary serialization
+  - V8 binary serialization 🖐️ used
