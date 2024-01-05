@@ -1,66 +1,66 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
+  - Procedural programming 👂 heard
+  - Imperative programming 👂 heard
+  - Structured programming 👂 heard
+  - Non-structured programming 👂 heard
+  - Functional programming 👂 heard
+  - Prototype-based programming 👂 heard
+  - Object-oriented programming 👂 heard
+  - Object-based programming 👂 heard
+  - Generic programming 👂 heard
   - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
+  - Asyncronous programming 👂 heard
+  - Parallel programming 👂 heard
+  - Reactive programming 👂 heard
   - FRP (Functional-reactive)
   - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
+  - Domain-specific languages 👂 heard
+  - Multi-paradigm programming 👂 heard
+  - Metaprogramming 👂 heard
+  - Actor model 👂 heard
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - instance
-  - Introspection
-  - Reflection
+  - constructor 🖐️ used
+  - new 🖐️ used
+  - Static method 🎓 known
+  - Method 🖐️ used
+  - Async method 🖐️ used
+  - Getters, Setters 🖐️ used
+  - Public fields 🖐️ used
+  - Private fields 🎓 known
+  - Field declarations 🎓 known
+  - Inheritance 🖐️ used
+  - Parent class 🎓 known
+  - Polymorphism 👂 heard
+  - Abstract class 👂 heard
+  - Interface 
+  - Encapsulation 👂 heard
+  - Hidden class 
+  - Object form 🎓 known
+  - instance 🎓 known
+  - Introspection 👂 heard
+  - Reflection 👂 heard
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
+  - Singleton 👂 heard
+  - Factory Method 👂 heard
+  - Abstract Factory👂 heard
   - Adapter
   - Observer
   - Strategy
   - Facade
-  - Proxy
-  - Chain of Responsibility
+  - Proxy 👂 heard
+  - Chain of Responsibility 👂 heard
   - Command
-  - Iterator
-  - State
-  - Bridge
+  - Iterator 👂 heard
+  - State 👂 heard
+  - Bridge 👂 heard
   - Builder
-  - Prototype
-  - Composite
-  - Decorator
+  - Prototype 👂 heard
+  - Composite 🎓 known
+  - Decorator 🎓 known
   - Flyweight
-  - Mediator
+  - Mediator 👂 heard
   - Memento
   - Template Method
   - Visitor
