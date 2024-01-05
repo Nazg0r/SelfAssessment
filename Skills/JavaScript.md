@@ -8,7 +8,7 @@
   - call 🖐️ used
   - bind 🖐️ used
   - apply 🖐️ used
-  - instanceof
+  - instanceof 🖐️ used
   - ...spread 🙋 explained
   - ...rest 🙋 explained
   - typeof 🙋 explained
