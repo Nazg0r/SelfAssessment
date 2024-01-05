@@ -2,44 +2,44 @@
 
 - Theory
   - Event loop 🎓 known
-  - try..catch 
-  - Non-blocking
-  - Async I/O 👂 heard
-  - Thread pool 👂 heard
-  - Pattern Reactor 👂 heard
+  - try..catch 🙋 explained
+  - Non-blocking 🙋 explained
+  - Async I/O 🙋 explained
+  - Thread pool 🙋 explained
+  - Pattern Reactor 🙋 explained
   - CAS operations
   - epoll
   - kqueue
   - Completion ports
   - Event ports
-  - libuv
-  - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming 👂 heard
-  - Actor Model
-  - Thread 🎓 known
-  - Process 🎓 known
+  - libuv 🖐️ used
+  - Race conditions 🙋 explained
+  - Dead locks 🙋 explained
+  - Live locks 🙋 explained
+  - Concurrent programming 🖐️ used
+  - Parallel programming 🖐️ used
+  - Actor Model 👂 heard
+  - Thread 🙋 explained
+  - Process 🙋 explained
 - Async contracts
   - Callbacks 🖐️ used
   - Callback-last-error-first 🖐️ used
   - Thenable 🖐️ used
   - Promise 🖐️ used
   - Async/await 🖐️ used
-  - Future 🖐️ used
+  - Future 🎓 known
   - Deferred
-  - Sync generator 👂 heard
-  - Async Generator 👂 heard
-  - Async Iterator 👂 heard
+  - Sync generator 🎓 known
+  - Async Generator 🎓 known
+  - Async Iterator 🎓 known
   - Event 🖐️ used
   - Coroutine
   - Goroutine
-  - Signal 👂 heard
-  - Stream 👂 heard
-  - Chain of responsibility 👂 heard
-  - Middleware 👂 heard
-  - Locks 
+  - Signal 🎓 known
+  - Stream 🖐️ used
+  - Chain of responsibility 🎓 known
+  - Middleware 🖐️ used
+  - Locks 🖐️ used
 - Async adapters and utils
   - callbackify 🎓 known
   - promisify 🎓 known
@@ -49,15 +49,15 @@
 - Async abstractions interfaces
   - EventEmitter 🖐️ used
   - Observable/Observer
-  - Readable 🎓 known
-  - Writable 🎓 known
-  - Transform 👂 heard
-  - Async Pool 👂 heard
-  - Async Queue 👂 heard
-  - Async Collector 👂 heard
-  - Semaphore
-  - Mutex
-  - Spin Lock
+  - Readable 🖐️ used
+  - Writable 🖐️ used
+  - Transform 🖐️ used
+  - Async Pool 🎓 known
+  - Async Queue 🎓 known
+  - Async Collector 🎓 known
+  - Semaphore 🙋 explained
+  - Mutex 🙋 explained
+  - Spin Lock 🙋 explained
 - JavaScript & Node.js specific
   - Timers🎓 known
   - setImmediate 🎓 known
@@ -74,20 +74,20 @@
   - Promise hell 🎓 known
   - ref() and unref()
   - Error handling in async code 🖐️ used
-  - Better stack traces with return await
-  - JSON: streaming serialization 👂 heard
-  - promisify 👂 heard
-  - callbackify 👂 heard
-  - AsyncLocalStorage 👂 heard
-  - AsyncResource 👂 heard
+  - Better stack traces with return await 🖐️ used
+  - JSON: streaming serialization 🖐️ used
+  - promisify 🖐️ used
+  - callbackify 🖐️ used
+  - AsyncLocalStorage 🖐️ used
+  - AsyncResource 🖐️ used
 - Techniques
   - async.js library
   - RxJS library
   - Async composition
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
+  - Promise.all 🎓 known
+  - Promise.allSettled 🎓 known
+  - Promise.race 🎓 known
+  - Promise.any 🎓 known
   - Web Locks API
   - IPC
   - Channel API
