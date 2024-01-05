@@ -23,46 +23,46 @@
   - code block 🙋 explained
   - conditions 🙋 explained
   - loops 🙋 explained
-  - assignment 🖐️ used
-  - regular expression 👂 heard
-  - interface 👂 heard
-  - contract 👂 heard
-  - module 🖐️ used
-  - call stack 🎓 known
+  - assignment 🙋 explained
+  - regular expression 🙋 explained
+  - interface 🙋 explained
+  - contract 🙋 explained
+  - module 🙋 explained
+  - call stack 🙋 explained
 - Functions
   - signature 🙋 explained
   - argument 🙋 explained
   - parameter 🙋 explained
   - pure function 🙋 explained
   - lambda expression🙋 explained
-  - side effects 🎓 known
-  - closure🎓 known
+  - side effects 🙋 explained
+  - closure 🖐️ used
   - partial application 🖐️ used
-  - curry 🎓 known
+  - curry 🖐️ used
   - higher order 🖐️ used
-  - recursion 🖐️ used
-  - callback 🖐️ used
+  - recursion 🙋 explained
+  - callback 🙋 explained
   - listener 🖐️ used
-  - compose 👂 heard
-  - pipe 👂 heard
-  - memoize 👂 heard
+  - compose 🙋 explained
+  - pipe 🖐️ used
+  - memoize 🖐️ used
   - wrapper 🖐️ used
-  - functor 🎓 known
+  - functor 🖐️ used
   - monad 👂 heard
   - monoid 👂 heard
-  - generator 🎓 known
-  - coroutine 👂 heard
+  - generator 🖐️ used
+  - coroutine 🖐️ used
 - Data structures
   - array 🙋 explained
   - structure 🙋 explained
-  - record 👂 heard
-  - enum 👂 heard
+  - record 🙋 explained
+  - enum 🙋 explained
   - instance 🙋 explained
   - object 🙋 explained
   - class 🙋 explained
   - collection 🚀 constructed
-  - set 🎓 known
-  - hash table 🎓 known
+  - set 🙋 explained
+  - hash table 🙋 explained
   - linked list 🚀 constructed
   - doubly list 🚀 constructed
   - unrolled list 🖐️ used
@@ -72,7 +72,7 @@
   - deque 🖐️ used
   - tree 🔬 researched
   - graph 🔬 researched
-  - iterator 🎓 known
+  - iterator 🖐️ used
   - mutable state 🎓 known
   - immutable state 🎓 known
   - serialization 🖐️ used
@@ -83,7 +83,7 @@
   - linter 🖐️ used
   - polyfill 🖐️ used
   - debugger 🖐️ used
-  - garbage collection 🖐️ used
+  - garbage collection 🙋 explained
   - refactoring 🙋 explained
   - code review 🖐️ used
   - antipatterns 🖐️ used
@@ -92,9 +92,9 @@
   - magic numbers 🖐️ used
   - hardcode 🙋 explained
   - complexity 🙋 explained
-  - decomposition 🎓 known
-  - spaghetti 👂 heard
-  - silver bullet 👂 heard
+  - decomposition 🙋 explained
+  - spaghetti 🎓 known
+  - silver bullet 🎓 known
   - not invented here 🎓 known
   - dead code 🙋 explained
   - unreachable code 🙋 explained
